@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceOne", "ServiceOne", "{672469F7-942E-4768-B6C3-242CFA702047}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceTwo", "ServiceTwo", "{015BE556-9210-494A-8DF2-B6DB1DF5C87F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceThree", "ServiceThree", "{ABB02F71-70CB-43EF-927C-D027AF61F9F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceFour", "ServiceFour", "{CC7E1840-D8C1-4B48-9520-0644EC034BDC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceFive", "ServiceFive", "{D044FB58-85CE-4C80-8769-6B334CE6A7E0}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02AA9626-48F8-49E9-91BA-C9EA6284F8EC}
+	EndGlobalSection
+EndGlobal
